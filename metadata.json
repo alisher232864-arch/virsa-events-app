@@ -1,0 +1,6 @@
+{
+  "name": "Virsa Events - Event Production App",
+  "description": "Professional event production, SMD LED screens, sound systems, and stage lighting rental application for Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
